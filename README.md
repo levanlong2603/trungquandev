@@ -63,7 +63,7 @@
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
+[<!-- https://icons8.com -->
 <div align="center">
   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
@@ -90,7 +90,7 @@
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
+  <a href="https://youtu.be/63opfUkPq6k" target="_blank">](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelTuEv9ek5jCk81C7KFhQIvW1_P3GwpMTzg&usqp=CAU)
     <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
   </a>
 </p>
